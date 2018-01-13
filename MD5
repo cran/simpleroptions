@@ -1,0 +1,12 @@
+58c83b2e10be0230e0a66d9e909edf6f *DESCRIPTION
+4c8e9dd0d03b69301229dc97fa6c5e9e *LICENSE
+a2ce868e19182946b662ad29b6a711dd *NAMESPACE
+8f67dc32ffd0f1f49e75f687f15f1162 *NEWS.md
+1159c438f495e95566482836d6183280 *R/OptionsManager.R
+8729c76aa698c558b49e9c408926a9ba *R/OptionsManager_R6.R
+d016f717b1f6998775763fe078af7156 *build/vignette.rds
+926c72c282e71defe0ad991102b0be39 *inst/doc/simpleroptions-for-R-package-developers.R
+3562e42040333ecefbbdbc55e759595c *inst/doc/simpleroptions-for-R-package-developers.Rmd
+2aa21f3bfc56ba1f46d663113295fa76 *inst/doc/simpleroptions-for-R-package-developers.html
+7863892039f1575c8911bf03f4b54a12 *man/OptionsManager.Rd
+3562e42040333ecefbbdbc55e759595c *vignettes/simpleroptions-for-R-package-developers.Rmd
